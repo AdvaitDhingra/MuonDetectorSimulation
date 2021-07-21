@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "angles.C": "cpp",
+        "energy.C": "cpp",
+        "layer.C": "cpp",
+        "cosmicRays.C": "cpp"
+    }
+}
